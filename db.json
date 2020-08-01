@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Sakura Gakuin",
+      "cor": "#eb2184",
+      "link_extra": {
+        "text": "SG Website",
+        "url": "https://www.sakuragakuin.jp/"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Babymetal",
+      "cor": "#db011a",
+      "link_extra": {
+        "text": "Babymetal YT channel",
+        "url": "https://www.youtube.com/user/BABYMETALofficial"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Other",
+      "cor": "#9cd33b"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Sakura Gakuin - Ganbare!!",
+      "url": "https://www.youtube.com/watch?v=Sc6bnAH-Roc"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Sakura Gakuin - Friends",
+      "url": "https://www.youtube.com/watch?v=6MoS4JHXqxg"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Sakura Gakuin - My Graduation Toss",
+      "url": "https://www.youtube.com/watch?v=OS190K_H69Q"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Sakura Gakuin - Jump Up",
+      "url": "https://www.youtube.com/watch?v=rlAo0cB0hzg"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Sakura Gakuin - Melodic Solfege",
+      "url": "https://www.youtube.com/watch?v=73r1kqNyirg"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Sakura Gakuin - Heart no Hoshi",
+      "url": "https://www.youtube.com/watch?v=SX19EYydv6Q"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Sakura Gakuin - Over Drive",
+      "url": "https://www.youtube.com/watch?v=LS7Cv82-9oc"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Sakura Gakuin - Verishuvi",
+      "url": "https://www.youtube.com/watch?v=FbId5Fkq-eI"
+    },
+    {
+      "id": 9,
+      "categoriaId": 1,
+      "titulo": "Sakura Gakuin - IJI",
+      "url": "https://www.youtube.com/watch?v=_abj2xbf2mA"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Babymetal - Da Da Dance",
+      "url": "https://www.youtube.com/watch?v=qMKlj_1zbYc"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Babymetal - Gimme Chocolate",
+      "url": "https://www.youtube.com/watch?v=WIKqgE4BwAY"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Babymetal - Road of Resistance",
+      "url": "https://www.youtube.com/watch?v=zTEYUFgLveY"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Babymetal - Megitsune",
+      "url": "https://www.youtube.com/watch?v=cK3NMZAUKGw"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+      "titulo": "Babymetal - Karate",
+      "url": "https://www.youtube.com/watch?v=GvD3CHA48pA"
+    },
+    {
+      "id": 15,
+      "categoriaId": 2,
+      "titulo": "Babymetal - Ijime, Dame, Zettai",
+      "url": "https://www.youtube.com/watch?v=Ro-_cbfdrYE"
+    },
+    {
+      "id": 16,
+      "categoriaId": 2,
+      "titulo": "Babymetal - Headbanger!!",
+      "url": "https://www.youtube.com/watch?v=2IzR_ClTE8Y"
+    },
+    {
+      "id": 17,
+      "categoriaId": 2,
+      "titulo": "Babymetal - Pa Pa Ya!!",
+      "url": "https://www.youtube.com/watch?v=oO7Y8NsnkRg"
+    },
+    {
+      "id": 18,
+      "categoriaId": 2,
+      "titulo": "Babymetal - Shanti Shanti Shanti",
+      "url": "https://www.youtube.com/watch?v=gQnG_T7kbtY"
+    },
+    {
+      "id": 19,
+      "categoriaId": 2,
+      "titulo": "Babymetal - No Rain, No Rainbow",
+      "url": "https://www.youtube.com/watch?v=pDgqo6fcliY"
+    },
+    {
+      "id": 20,
+      "categoriaId": 2,
+      "titulo": "Babymetal - Doki Doki Morning",
+      "url": "https://www.youtube.com/watch?v=cirhQ8iLdbw"
+    },
+    {
+      "id": 21,
+      "categoriaId": 3,
+      "titulo": "Ningen Isu - Heartless Scat",
+      "url": "https://www.youtube.com/watch?v=CbI79e5iZKs"
+    },
+    {
+      "id": 21,
+      "categoriaId": 3,
+      "titulo": "Band Maid - Thrill",
+      "url": "https://www.youtube.com/watch?v=Uds7g3M-4lQ"
+    },
+    {
+      "id": 21,
+      "categoriaId": 3,
+      "titulo": "Wagakki Band - Senbonzakura",
+      "url": "https://www.youtube.com/watch?v=K_xTet06SUo"
+    },
+    {
+      "id": 21,
+      "categoriaId": 3,
+      "titulo": "Ikimono Gakari - Sakura",
+      "url": "https://www.youtube.com/watch?v=61z-cqg28R8"
+    },
+    {
+      "id": 21,
+      "categoriaId": 3,
+      "titulo": "Ikimono Gakari - Arigatou",
+      "url": "https://www.youtube.com/watch?v=IMen15PzOhM"
+    },
+    {
+      "id": 21,
+      "categoriaId": 3,
+      "titulo": "Loudness - Crazy Nights",
+      "url": "https://www.youtube.com/watch?v=pXCpPpPCW4c"
+    }
+  ]
+}

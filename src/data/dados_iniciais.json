@@ -1,0 +1,135 @@
+{
+  "categorias": [
+    {
+      "titulo": "Sakura Gakuin",
+      "link": "https://www.sakuragakuin.jp/",
+      "cor": "#eb2184",
+      "link_extra": {
+        "text": "SG Home Page",
+        "url": "https://www.sakuragakuin.jp/"
+      },
+      "videos": [
+        {
+          "titulo": "Sakura Gakuin - Ganbare!!",
+          "url": "https://www.youtube.com/watch?v=Sc6bnAH-Roc"
+        },
+        {
+          "titulo": "Sakura Gakuin - Friends",
+          "url": "https://www.youtube.com/watch?v=6MoS4JHXqxg"
+        },
+        {
+          "titulo": "Sakura Gakuin - My Graduation Toss",
+          "url": "https://www.youtube.com/watch?v=OS190K_H69Q"
+        },
+        {
+          "titulo": "Sakura Gakuin - Jump Up",
+          "url": "https://www.youtube.com/watch?v=rlAo0cB0hzg"
+        },
+        {
+          "titulo": "Sakura Gakuin - Melodic Solfege",
+          "url": "https://www.youtube.com/watch?v=73r1kqNyirg"
+        },
+        {
+          "titulo": "Sakura Gakuin - Heart no Hoshi",
+          "url": "https://www.youtube.com/watch?v=SX19EYydv6Q"
+        },
+        {
+          "titulo": "Sakura Gakuin - Over Drive",
+          "url": "https://www.youtube.com/watch?v=LS7Cv82-9oc"
+        },
+        {
+          "titulo": "Sakura Gakuin - Verishuvi",
+          "url": "https://www.youtube.com/watch?v=FbId5Fkq-eI"
+        },
+        {
+          "titulo": "Sakura Gakuin - IJI",
+          "url": "https://www.youtube.com/watch?v=_abj2xbf2mA"
+        }
+      ]
+    },
+    {
+      "titulo": "Babymetal",
+      "cor": "#db011a",
+      "link_extra": {
+        "text": "Babymetal YT channel",
+        "url": "https://www.youtube.com/user/BABYMETALofficial"
+      },
+      "videos": [
+        {
+          "titulo": "Babymetal - Da Da Dance",
+          "url": "https://www.youtube.com/watch?v=qMKlj_1zbYc"
+        },
+        {
+          "titulo": "Babymetal - Gimme Chocolate",
+          "url": "https://www.youtube.com/watch?v=WIKqgE4BwAY"
+        },
+        {
+          "titulo": "Babymetal - Road of Resistance",
+          "url": "https://www.youtube.com/watch?v=zTEYUFgLveY"
+        },
+        {
+          "titulo": "Babymetal - Megitsune",
+          "url": "https://www.youtube.com/watch?v=cK3NMZAUKGw"
+        }, 
+        {
+          "titulo": "Babymetal - Karate",
+          "url": "https://www.youtube.com/watch?v=GvD3CHA48pA"
+        },
+        {
+          "titulo": "Babymetal - Ijime, Dame, Zettai",
+          "url": "https://www.youtube.com/watch?v=Ro-_cbfdrYE"
+        },
+        {
+          "titulo": "Babymetal - Headbanger!!",
+          "url": "https://www.youtube.com/watch?v=2IzR_ClTE8Y"
+        },
+        {
+          "titulo": "Babymetal - Pa Pa Ya!!",
+          "url": "https://www.youtube.com/watch?v=oO7Y8NsnkRg"
+        },
+        {
+          "titulo": "Babymetal - Shanti Shanti Shanti",
+          "url": "https://www.youtube.com/watch?v=gQnG_T7kbtY"
+        },
+        {
+          "titulo": "Babymetal - No Rain, No Rainbow",
+          "url": "https://www.youtube.com/watch?v=pDgqo6fcliY"
+        },
+        {
+          "titulo": "Babymetal - Doki Doki Morning",
+          "url": "https://www.youtube.com/watch?v=cirhQ8iLdbw"
+        }
+      ]
+    },
+    {
+      "titulo": "Other",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "Ningen Isu - Heartless Scat",
+          "url": "https://www.youtube.com/watch?v=CbI79e5iZKs"
+        },
+        {
+          "titulo": "Band Maid - Thrill",
+          "url": "https://www.youtube.com/watch?v=Uds7g3M-4lQ"
+        },
+        {
+          "titulo": "Wagakki Band - Senbonzakura",
+          "url": "https://www.youtube.com/watch?v=K_xTet06SUo"
+        },
+        {
+          "titulo": "Ikimono Gakari - Sakura",
+          "url": "https://www.youtube.com/watch?v=61z-cqg28R8"
+        },
+        {
+          "titulo": "Ikimono Gakari - Arigatou",
+          "url": "https://www.youtube.com/watch?v=IMen15PzOhM"
+        },
+        {
+          "titulo": "Loudness - Crazy Nights",
+          "url": "https://www.youtube.com/watch?v=pXCpPpPCW4c"
+        }
+      ]
+    }
+  ]
+}
