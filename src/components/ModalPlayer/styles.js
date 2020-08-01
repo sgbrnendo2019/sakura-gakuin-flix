@@ -13,7 +13,7 @@ export const Modal = styled.div`
 
 export const ModalWrapper = styled.div`
   position: absolute;
-  top: 25vh;
+  top: 15vh;
   width: 100%;
   z-index: 100;
 
