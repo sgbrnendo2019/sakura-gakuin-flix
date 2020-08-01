@@ -13,7 +13,7 @@ export const Modal = styled.div`
 
 export const ModalWrapper = styled.div`
   position: absolute;
-  top: 35vh;
+  top: 25vh;
   width: 100%;
   z-index: 100;
 
@@ -23,9 +23,9 @@ export const ModalWrapper = styled.div`
 `;
 
 export const Embed = styled.iframe`
-  border: 1px solid var(--primary);
-  width: 560px;
-  height: 315px;
+  border: 0;
+  width: 50vw;
+  height: 28.12vw;
 
   @media (max-width: 800px) {
     width: 100vw; 
