@@ -2,7 +2,6 @@ import React from 'react';
 import { Modal, ModalWrapper, Embed } from './styles';
 
 function ModalPlayer({ showModal, onClick, videoId }) {
-  console.log('videoId', videoId);
   return (
     <Modal onClick={onClick} showModal={showModal}>
       <ModalWrapper>
