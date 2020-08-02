@@ -34,7 +34,7 @@ const Container = styled.ul`
 
 export const SliderItem = styled.li`
   margin-right: 16px;
-  img {
+  .img-video {
     margin: 16px;
     width: 298px;
     height: 197px;
