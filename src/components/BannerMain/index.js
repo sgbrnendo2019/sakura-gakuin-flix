@@ -29,6 +29,10 @@ export default function BannerMain({
 
           <ContentAreaContainer.Description>
             {videoDescription}
+            {' - '}
+            (
+            <a href="https://en.wikipedia.org/wiki/Sakura_Gakuin" target="_blank" rel="noopener noreferrer">Wikipedia</a>
+            )
           </ContentAreaContainer.Description>
         </ContentAreaContainer.Item>
 

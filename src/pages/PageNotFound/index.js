@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 import PageDefault from '../../components/PageDefault';
-import Img404 from '../../assets/img/HyJP6HP.gif';
+import Img404 from '../../assets/img/Dz4H6un.png';
 
 const NotFoundContainer = styled.div`
     display: flex;

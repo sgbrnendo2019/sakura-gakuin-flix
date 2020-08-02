@@ -35,7 +35,7 @@ function Home() {
               <BannerMain
                 videoTitle={categoria.videos[0].titulo}
                 url={categoria.videos[0].url}
-                videoDescription={"Sakura Gakuin (Japanese: さくら学院, lit. 'Cherry Blossom Academy') is a Japanese group formed in 2010 by the Amuse talent agency."}
+                videoDescription={"Sakura Gakuin (Japanese: さくら学院, lit. 'Cherry Blossom Academy') is a Japanese group formed in 2010 by the Amuse talent agency"}
               />
 
               <Carousel
